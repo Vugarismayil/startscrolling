@@ -1,0 +1,117 @@
+* {
+
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+
+}
+.logo{
+    color: #ffffff;
+}
+.buttonss{
+    background-size: 200px;
+}
+
+.navbar-nav {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+.nav {
+    background-color: rgb(33, 37, 41);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 50px;
+}
+
+.head {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: #217afd;
+    height: 225px;
+    padding: 50px;
+    width: 100%;
+}
+.ss{
+    color: white;
+}
+
+.contenth3 {
+
+    background-color: aliceblue;
+    padding: 100%;
+
+}
+
+.page-about {
+    
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+    background-position: center;
+    background-attachment: fixed;
+   
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    background-color: white;
+}
+
+.scrool {
+    display: inline;
+    padding: 60px;
+    width: 20px;
+    height: 20px;
+}
+
+.page-services {
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    background-color: #f8f9fa;
+    text-align: center !important;
+    
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+.page-contact {
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    background-color: white;
+
+}
+
+.end {
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    background-color: #212529;
+   
+}
+
+.copyend {
+    color: white;
+}
